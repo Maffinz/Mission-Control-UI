@@ -9,3 +9,11 @@ Steps UNIX
 6) Inside the curly braces type "python.pythonPath": "Paste the outcome of Step(4)" [Include Quotation marks]
 7) Save and Exit
 8) Test by typing in the command line: python app.py
+
+Steps Windows
+1) Open CMD
+2) Go to the project location
+3) type and run 'dir' if you see 'env' folder you are doing good
+4) type and run 'code .'
+5) VSCode Should open up
+6) in VSCode Terminal type 'python app.py' if it runs You Are set
